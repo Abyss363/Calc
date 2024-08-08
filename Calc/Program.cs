@@ -69,7 +69,6 @@ namespace Calc
 
         static void Main(string[] args)
         {
-            Console.WriteLine("\u3053\u3093\u306B\u3061\u306F");
             Console.WriteLine("Please use capital letters for all inputs.");
             Console.WriteLine("Input A for sum, B for greatest number, C for factorial, D for simple interest: ");
             char x = Convert.ToChar(Console.ReadLine());
