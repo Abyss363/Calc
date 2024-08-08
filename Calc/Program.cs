@@ -97,7 +97,6 @@ namespace Calc
                 default:
                     Console.WriteLine("You did not select any of the options!! Please ensure to use capital letters!!");
                     Console.WriteLine(" . . . Program Closing . . .");
-                    Console.WriteLine(34.40m);
                     break;
             }
         }

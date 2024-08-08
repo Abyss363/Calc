@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tempest\\Documents\\C# Projects\\Calc\\",
+  "WorkspaceRootPath": "C:\\Users\\Tempest\\source\\repos\\Abyss363\\Calc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E46F3EF5-F5A6-4117-A07D-23DFA1C84A57}|Calc\\Calc.csproj|c:\\users\\tempest\\documents\\c# projects\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E46F3EF5-F5A6-4117-A07D-23DFA1C84A57}|Calc\\Calc.csproj|c:\\users\\tempest\\source\\repos\\abyss363\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E46F3EF5-F5A6-4117-A07D-23DFA1C84A57}|Calc\\Calc.csproj|solutionrelative:calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tempest\\Documents\\C# Projects\\Calc\\Calc\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tempest\\source\\repos\\Abyss363\\Calc\\Calc\\Program.cs",
               "RelativeDocumentMoniker": "Calc\\Program.cs",
-              "ToolTip": "C:\\Users\\Tempest\\Documents\\C# Projects\\Calc\\Calc\\Program.cs",
+              "ToolTip": "C:\\Users\\Tempest\\source\\repos\\Abyss363\\Calc\\Calc\\Program.cs",
               "RelativeToolTip": "Calc\\Program.cs",
               "ViewState": "AQIAAD8AAAAAAAAAAAAowEkAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
