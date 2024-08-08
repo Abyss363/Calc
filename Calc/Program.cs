@@ -69,32 +69,34 @@ namespace Calc
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Input 1 for sum, 2 for greatest number, 3 for factorial, 4 for simple interest: ");
-            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please use capital letters for all inputs.");
+            Console.WriteLine("Input A for sum, B for greatest number, C for factorial, D for simple interest: ");
+            char x = Convert.ToChar(Console.ReadLine());
             switch(x)
             {
-                case 1:
+                case 'A':
                     sum();
                     Main(args);
                     break;
 
-                case 2:
+                case 'B':
                     greatestNumber();
                     Main(args);
                     break;
 
-                case 3:
+                case 'C':
                     factorial();
                     Main(args);
                     break;
 
-                case 4:
+                case 'D':
                     simpleInterest();
                     Main(args);
                     break;
 
                 default:
-                    Console.WriteLine("You did not select any of the options!!");
+                    Console.WriteLine("You did not select any of the options!! Please ensure to use capital letters!!");
+                    Console.WriteLine(" . . . Program Closing . . .");
                     break;
             }
         }

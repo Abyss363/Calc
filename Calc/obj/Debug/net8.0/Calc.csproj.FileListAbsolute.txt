@@ -12,3 +12,4 @@ C:\Users\Tempest\Documents\C# Projects\Calc\Calc\obj\Debug\net8.0\refint\Calc.dl
 C:\Users\Tempest\Documents\C# Projects\Calc\Calc\obj\Debug\net8.0\Calc.pdb
 C:\Users\Tempest\Documents\C# Projects\Calc\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
 C:\Users\Tempest\Documents\C# Projects\Calc\Calc\obj\Debug\net8.0\ref\Calc.dll
+C:\Users\Tempest\Documents\C# Projects\Calc\Calc\obj\Debug\net8.0\Calc.sourcelink.json
